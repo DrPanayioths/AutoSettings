@@ -1,7 +1,7 @@
 # AutoSettings
 A .Bat Program That Is Automally set your dns to cloudflare and doing some good things
 
-#Steps To Use
+# Steps To Use
 
 1   Click The text bellow Release in the Down Right 
 

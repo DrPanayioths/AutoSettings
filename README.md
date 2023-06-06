@@ -3,9 +3,9 @@ A .Bat Program That Is Automally Set Your DNS To CloudFlare And Open A Helpful M
 
 # Steps To Use
 
-1   Click The text Below Release ( Named "Release <Date>"  ) 
+1   Click The text Below Release ( Named "Release <Date>"  ) After Click The "DRPconfiger.bat" file
 
-2   Find The File
+2   Find The File In The Explorer Window
 
 3   Right Click And Click Run as Administrator
 

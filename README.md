@@ -3,7 +3,7 @@ A .Bat Program That Is Automally Set Your DNS To CloudFlare And Open A Helpful M
 
 # Steps To Use
 
-1   Click The text bellow Release in the Down Right 
+1   Click The text Below Release ( Named "Release <Date>"  ) 
 
 2   Find The File
 

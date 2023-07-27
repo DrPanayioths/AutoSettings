@@ -1,0 +1,11 @@
+@ECHO OFF 
+ECHO Thanks For Using DrPanayioths Tooler.//////// To oti to kanei me ena click magiko > "G:\BATCH\Test.txt"
+
+start "" https://christitus.com/windows-tool/
+start "" powershell.exe
+
+
+
+
+pause
+exit /b 0

@@ -1,22 +1,22 @@
-# AutoSettings
-A .Bat Program That Is Automally Set Your DNS To CloudFlare And Open A Helpful Menu To Many Things
+# AutoSettings 🛠️
+A .Bat Program That Automatically Sets Your DNS To CloudFlare 🌐 and Opens a Helpful Menu to Do Many Things 🚀
 
-# Steps To Use
+## Steps To Use 📝
 
-1   Click The Text Below Release ( Named "Release <Date>"  ) After Click The "DRPconfiger.bat" file
+1. Click the Text Below Release (Named "Release <Date>") 📦, then click the "DRPconfiger.bat" file 📂
 
-2   Find The File In The Explorer Window
+2. Find the File in the Explorer Window 🕵️‍♂️
 
-3   Right Click And Click Run as Administrator
+3. Right-Click and Click "Run as Administrator" 👤
 
-4   Wait And When A Site and a powershell Open
+4. Wait ⏳ and When a Site and a PowerShell Open 💻
 
-5   Copy The Text in the grey area and paste it to the powershell
+5. Copy the Text in the Grey Area and Paste It into the PowerShell 📋
 
-6   Wait
+6. Wait ⏳
 
-7   when a text say "Do You Have Chocolate" Appear Write y and click Enter
+7. When a Text Says "Do You Have Chocolate" 🍫 Appear, Write "y" and Click Enter ✅
 
-8   Wait And A Program to install and modify many things will open
+8. Wait ⏳, and a Program to Install and Modify Many Things Will Open 🚀
 
-9   Done
+9. Done ✅🎉

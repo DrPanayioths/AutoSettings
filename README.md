@@ -3,20 +3,26 @@ A .Bat Program That Automatically Sets Your DNS To CloudFlare 🌐 and Opens a H
 
 ## Steps To Use 📝
 
-1. Click the Text Below Release (Named "Release <Date>") 📦, then click the "DRPconfiger.bat" file 📂
+General Instructions:
+1. Click the Text Below Release (Named "Release") 📦, then select what bat you want 📂
 
 2. Find the File in the Explorer Window 🕵️‍♂️
 
 3. Right-Click and Click "Run as Administrator" 👤
 
-4. Wait ⏳ and When a Site and a PowerShell Open 💻
 
-5. Copy the Text in the Grey Area and Paste It into the PowerShell 📋
+Powershell Extra:
 
-6. Wait ⏳
+4. Wait ⏳
 
-7. When a Text Says "Do You Have Chocolate" 🍫 Appear, Write "y" and Click Enter ✅
+5. When The Site and PowerShell Open 💻
 
-8. Wait ⏳, and a Program to Install and Modify Many Things Will Open 🚀
+6. Copy the Text in the Grey Area and Paste It into the PowerShell 📋
 
-9. Done ✅🎉
+7. Wait ⏳
+
+8. When a Text Says "Do You Have Chocolate" 🍫 Appear, Write "y" and Click Enter ✅
+
+9. Wait ⏳, and a Program to Install and Modify Many Things Will Open 🚀
+
+10. Done ✅🎉
